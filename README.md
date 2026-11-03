@@ -11,7 +11,7 @@ Generated Android Trusted Web Activity (TWA) project for **Calculadora de Ferias
 | App name | Calculadora de Ferias |
 | Short name | Cal. de Ferias |
 | Package ID | `com.geovanecdprojeto.github` |
-| Website URL | https://geovanecdprojeto-creator.github.io/Calculadora/ |
+| Website URL | https://geovanecdprojeto-creator.github.io/calculado1/ |
 | Verified host | geovanecdprojeto-creator.github.io |
 | Description | Calcula valores a receber ao sair de ferias. |
 | Generated at | 2026-11-03 18:34:22 UTC |
