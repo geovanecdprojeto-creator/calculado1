@@ -64,7 +64,7 @@ The generated project includes an `assetlinks.json` file for the default bundled
 To hide the browser toolbar and complete TWA verification, upload that file to your website:
 
 ```text
-https://geovanecdprojeto-creator.github.io/.well-known/assetlinks.json
+https://raw.githubusercontent.com/geovanecdprojeto-creator/calculado1/refs/heads/main/.well-known/assetlinks.json
 ```
 
 Default SHA-256 fingerprint:
